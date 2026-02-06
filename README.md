@@ -1,2 +1,1 @@
-# Pandas-data-analys-project-5
-Project with Ecomerce orders and diagrams.
+In this project I use pandas library and Jupyter notebook to create data analys on csv document for amazon sales. In this project I use astype("category") , change text to datatime , use functions like count, reset index and many more. For data visualization I use matplotlib.pyplot and seaborn. I will add the csv document as well as my code.
